@@ -8,10 +8,12 @@ The purpose is to uncover patterns in TSA complaints by type, subcategory, and o
 #### Getting Started
 To explore and run the analysis:
 
+
 Clone the repository:
 ``` Bash
 git clone https://github.com/barath-anandaraman/tsa-complaints.git
 cd tsa-complaints
+unzip Archive.zip
 # Install Dependencies: It's recommended to use a virtual environment.
 
 
